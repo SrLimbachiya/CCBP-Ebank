@@ -1,0 +1,3 @@
+POST "https://apis.ccbp.in/ebank/login"
+
+{"user_id": 142420, "pin": 231225}
